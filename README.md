@@ -12,10 +12,15 @@ It includes three iris species with 50 samples each as well as some properties a
 The columns in this dataset are:
 
 Id
+
 SepalLengthCm
+
 SepalWidthCm
+
 PetalLengthCm
+
 PetalWidthCm
+
 Species
 
 ![Iris_types_img](https://github.com/Bharatk050/Iris-Classification/assets/72248062/53a3912e-ea16-42ae-962e-18c1ce4913ff)
